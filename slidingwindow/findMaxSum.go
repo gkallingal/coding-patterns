@@ -1,3 +1,4 @@
+package slidingwindow
 
 func MaxSum(size int, arr []int) int {
 	var result int
